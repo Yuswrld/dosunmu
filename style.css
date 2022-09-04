@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: helvetica;
+}
+header{
+    height: 100vh;
+    background-color:#8a99ff ;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+main{
+    height:100vh;
+    background-color: goldenrod;
+}
+section{
+    height:100vh;
+    background-color: indigo;
+    padding: 20px;
+   
+}
+footer{
+    height:100vh ;
+    background-color: lightcoral;
+}
+summary{
+    padding: 10px;
+    width: 50%;
+    background-color: #ddd;
+    margin-block: 20px;
+    cursor: pointer;
+}
